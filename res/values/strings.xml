@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="spielname">Schere, Stein, Papier</string>
+    <string name="app_name">SchereSteinPapierApp</string>
+    <string name="auswahl">Bitte Symbol auswählen</string>
+    <string name="computerAuswahl">Der Computer wählt:</string>
+    <string name="punktestand">Punktestand</string>
+    <string name="user">Du:</string>
+    <string name="computer">Computer:</string>
+    <string name="gewinnerUser">Du hast gewonnen!</string>
+    <string name="gewinnerComputer">Der Computer hat gewonnen!</string>
+    <string name="gewinnerUnentschieden">Unentschieden!</string>
+    <string name="schere">Schere</string>
+    <string name="stein">Stein</string>
+    <string name="papier">Papier</string>
+    <string name="computerNeutral"> </string>
+    
+    <string name="userSpielStand">0</string>
+    <string name="computerSpielStand">0</string>
+
+</resources>
